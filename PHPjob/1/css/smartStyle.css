@@ -1,0 +1,46 @@
+@media screen and (max-width: 479px) {
+    .header{
+        width:  200px;
+        height: auto;
+    }
+    
+    .container1{
+        height: 160px;   
+        display: flex;
+        flex-direction: column;
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+    
+    .main{
+        width:  200px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container2{
+        width: 200px;
+    }
+
+    .container3{
+        width: 200px;
+    }
+
+    .item2{
+        margin: auto;
+    }
+    
+    .wrap{
+        width:  100%;
+        margin: 20px 30px 20px 30px;
+    }
+
+    .item2{
+        width: 100%;
+    }
+
+    .footer{
+        width:  200px;
+    }
+}
